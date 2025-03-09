@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+    color: rgb(11, 25, 65);
+    background-color: bisque;
+    font-weight: 900;
+}
+
+ul .list{
+    color: black;
+}
+
+ul .list:hover{
+    color: rgb(16, 10, 71);
+}
+
+ul .list:active{
+    color: aqua;
+}
+
+ul .list:visited{
+    color: brown;
+}
